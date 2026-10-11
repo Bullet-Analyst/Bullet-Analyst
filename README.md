@@ -18,16 +18,17 @@ I am a detail-oriented Data Analyst with a strong logical mindset and a passion 
 * **Continuous Learning:** Currently advancing my analytical capabilities by exploring advanced Data Science methodologies.
 
 ---
-📫 **How to reach me:** [Aap yahan apna LinkedIn ya Email link daal sakte hain]
+📫 **How to reach me:** www.linkedin.com/in/bullet-kumar-5abbb2214
 ### 🎓 Education & Certifications
 
-*   **Bachelor of Arts:** Major in Mathematics & Minor in Economics | Govt. Degree College, Dharamshala.
-*   **ADCA:** Advanced Diploma in Computer Application | Hind Glob Institute, Dharamshala.
-*   **Professional Certifications (Tutedude):**
-    * **Data Visualization (Tableau)** — [View Certificate](https://drive.google.com/file/d/1dOywwxOjDF8WzC4LUY8KBMUG_ycQH8_m/view?usp=sharing)
-    * **Motion Graphics (Adobe After Effects)** — [View Certificate](https://drive.google.com/file/d/1ZU7aDuO6COQK1a1r3gjlizpx-91zuLPa/view?usp=sharing).
-    * **Vector Illustration (Adobe Illustrator)** — [View Certificate](https://drive.google.com/file/d/1JQsQZqqmbXHzOzH9gEdGiFOUnS4uh6If/view?usp=sharing)
-    * **AI Mastery:** Certified in **AI & ChatGPT Prompt Engineering** — [View Certificate](https://drive.google.com/file/d/1eFxXVQwfJ6BIuxP1X5W-sViOmjrKrKsI/view?usp=sharing)
+* **Bachelor of Arts:** Govt. Degree College, Dharamshala.
+* **ADCA:** Advanced Diploma in Computer Application | Hind Glob Institute, Dharamshala.
+* **Professional Certifications (Tutedude):**
+  * **Comprehensive Data Analytics** – [View Certificate](https://drive.google.com/file/d/1dU711OQAreMidj2BngpHTajUnVgatZAm/view?usp=sharing)
+  * **Data Visualization (Power BI)** – [View Certificate](https://drive.google.com/file/d/1NDIO1IsfbsXTSd9vx_hJJmcicHpti9ZK/view?usp=sharing)
+  * **Database Management (SQL)** – [View Certificate](https://drive.google.com/file/d/1rq52ouHuS79dBtWFBPlELdj3vTJ18V-A/view?usp=sharing)
+  * **Data Visualization (Tableau)** – [View Certificate](https://drive.google.com/file/d/1d0ywwxOjDF8WzC4LUY8KBMUG_ycQH8_m/view?usp=sharing)
+  * **AI Mastery:** Certified in **AI & ChatGPT Prompt Engineering** – [View Certificate](https://drive.google.com/file/d/1eFxXVQwfj6BIuxP1X5W-sViOmjrKrKsI/view?usp=sharing)
 
 ---
 

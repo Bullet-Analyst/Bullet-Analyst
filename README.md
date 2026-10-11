@@ -27,8 +27,8 @@ I am a detail-oriented Data Analyst with a strong logical mindset and a passion 
   * **Comprehensive Data Analytics** – [View Certificate](https://drive.google.com/file/d/1dU711OQAreMidj2BngpHTajUnVgatZAm/view?usp=sharing)
   * **Data Visualization (Power BI)** – [View Certificate](https://drive.google.com/file/d/1NDIO1IsfbsXTSd9vx_hJJmcicHpti9ZK/view?usp=sharing)
   * **Database Management (SQL)** – [View Certificate](https://drive.google.com/file/d/1rq52ouHuS79dBtWFBPlELdj3vTJ18V-A/view?usp=sharing)
-  * **Data Visualization (Tableau)** – [View Certificate](https://drive.google.com/file/d/1d0ywwxOjDF8WzC4LUY8KBMUG_ycQH8_m/view?usp=sharing)
-  * **AI Mastery:** Certified in **AI & ChatGPT Prompt Engineering** – [View Certificate](https://drive.google.com/file/d/1eFxXVQwfj6BIuxP1X5W-sViOmjrKrKsI/view?usp=sharing)
+  * **Data Visualization (Tableau)** – [View Certificate](https://drive.google.com/file/d/1dOywwxOjDF8WzC4LUY8KBMUG_ycQH8_m/view?usp=sharing)
+  * **AI Mastery:** Certified in **AI & ChatGPT Prompt Engineering** – [View Certificate](https://drive.google.com/file/d/1eFxXVQwfJ6BIuxP1X5W-sViOmjrKrKsI/view?usp=sharing)
 
 ---
 

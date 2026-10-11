@@ -1,27 +1,24 @@
-# Hi, I'm Bullet Kumar (Reyansh) 👋
+# Hi, I'm Bullet Kumar (Riyansh) 👋
 
-### 📊 Aspiring Data Analyst | 🎨 Creative Visual Storyteller | 📈 Maths & Economics Graduate
+### 📊 Data Analyst | 📈 Business Intelligence | 💻 SQL & Python Enthusiast
 
-I am a unique blend of a logical mindset and a creative vision. With a strong academic background in **Mathematics & Economics**, I specialize in identifying data patterns and transforming them into impactful visual stories using my 3+ years of professional design experience.
-
----
+I am a detail-oriented Data Analyst with a strong logical mindset and a passion for uncovering hidden patterns in complex datasets. I specialize in data extraction, advanced visualization, and transforming raw data into actionable business insights to drive decision-making.
 
 ### 🛠️ Professional Expertise
 
-*   **Data Analytics (Current Focus):** Advanced Data Visualization & DAX in Power BI, SQL for Data Extraction, and MS Excel.
-*   **Creative Design & Video Production:** Expert-level proficiency in Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere Pro) and Moho Pro.
-*   **AI-Enhanced Workflow:** Advanced skills in leveraging AI and ChatGPT for prompt engineering, design automation, and workflow optimization.
+* **Business Intelligence & Visualization:** Power BI (DAX, Star/Galaxy Schema Modeling, Custom Dashboards), Tableau, Advanced MS Excel.
+* **Database Management (SQL):** PostgreSQL, MySQL, SQL Server Management Studio (SSMS). Proficient in complex queries, joins, aggregations, views, and window functions.
+* **Programming & Data Manipulation:** Python (Pandas, NumPy) using Jupyter Notebook.
+* **Version Control & Tools:** Git, GitHub, VS Code.
+
+### 💼 Key Projects & Experience
+
+* **E-Commerce Sales & Returns Dashboard:** Developed an interactive, multi-page Power BI dashboard utilizing DAX measures and advanced data modeling to track sales performance, customer trends, and return rates.
+* **Data Analytics Training & Certification:** Completed a comprehensive Data Analytics program (TuteDude / Newton School) covering SQL, Python, Power BI, and Tableau, successfully executing 15+ structured real-world SQL assignments.
+* **Continuous Learning:** Currently advancing my analytical capabilities by exploring advanced Data Science methodologies.
 
 ---
-
-### 💼 Work Experience & Projects
-
-*   **Professional Graphic Designer (3+ Years):** Extensive experience in high-volume printing environments, specializing in branding, marketing collateral (Brochures, Business Cards, Magazines), and large-scale banners.
-*   **Content Creator:** Managing a professional YouTube channel focused on horror/supernatural documentaries featuring high-end motion graphics and 2D cinematic illustrations.
-*   **Fictional Universe Architect:** Creator of the I.S.P.A. (Indian Supernatural Protection Agency) and RedMist Observation Bureau investigative universes.
-
----
-
+📫 **How to reach me:** [Aap yahan apna LinkedIn ya Email link daal sakte hain]
 ### 🎓 Education & Certifications
 
 *   **Bachelor of Arts:** Major in Mathematics & Minor in Economics | Govt. Degree College, Dharamshala.
